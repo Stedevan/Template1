@@ -1,2 +1,2 @@
-# Template1
- A template site
+# scarlet
+ A website used to promote my novel
