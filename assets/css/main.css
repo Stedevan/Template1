@@ -2188,7 +2188,7 @@ input, select, textarea {
 
 	.box.style2{
 		display:block; width: 23em;; height: 15em;
-	 border: 2px solid  #020202;  overflow-x:hidden; overflow-y:scroll; scrollbar-color: #912121 #e99c9c; 
+	 border: 2px solid  #020202;  overflow-x:hidden; overflow-y:scroll; scrollbar-color: #000 #a7a5a5; 
 	 position: relative; margin-bottom: 1.25em;
 	 background-color: cornsilk;
 	}
@@ -2282,16 +2282,16 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-image: none;
-			background-color: #be2c2c;
+			background-color: #4b4848;
 		}
 
 		.wrapper.style2 {
-			background-color: #912121;
+			background-color: #242323;
 			text-shadow: 1px 1px 0px #fff;
 		}
 
 		.wrapper.style3 {
-			background-color: #be2c2c;
+			background-color: #4b4848;
 			text-shadow: 1px 1px 0px #fff;
 		}
 
